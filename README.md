@@ -10,35 +10,48 @@
 
 ## 👋 About me
 
-I build web products end to end: interfaces, APIs, data pipelines and the AI layer that ties them together. Most of my work is for small and mid-sized businesses that need dashboards, internal tools and assistants that actually get used.
+I build web products end to end: interfaces, APIs, data pipelines and the AI layer that ties them together. I choose the architecture to fit the problem — from a single small service to a set of microservices — and I take it all the way to production, including deployment and monitoring. Most of my work is for small and mid-sized businesses that need dashboards, internal tools and assistants that actually get used.
 
 ## 🛠️ What I build
 
 | | |
 |---|---|
-| 📊 **Dashboards & analytics** | KPI dashboards, cost and logistics analytics, reporting tools |
-| 🤖 **AI agents & assistants** | LLM-powered agents with tool use, model routing and human-in-the-loop approval |
+| 📊 **Dashboards & analytics** | KPI dashboards, forecasting, customer analytics, logistics and cost reporting |
+| 🤖 **AI agents & assistants** | Multi-agent orchestration and delegation, model routing, RAG over internal knowledge, tool use through MCP |
 | 🏪 **Business apps** | Booking, quoting and inventory systems, landing pages, mobile apps |
+| 🔌 **Integrations & automation** | Webhooks, scheduled routines, background workers, transactional email, third-party APIs |
 | 🗺️ **Geospatial** | Map-based analysis with satellite data and vector rendering |
 
 ## 🧰 Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,python,fastapi,nodejs,express,mongodb,html,css,git,github,vercel&perline=7" alt="Tech stack: React, TypeScript, JavaScript, Vite, Python, FastAPI, Node.js, Express, MongoDB, HTML, CSS, Git, GitHub, Vercel" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,python,fastapi,nodejs,express,postgres,mongodb,redis,sqlite,docker,git,github,vercel&perline=8" alt="Tech stack: React, TypeScript, JavaScript, Vite, Python, FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis, SQLite, Docker, Git, GitHub, Vercel" />
 
 </div>
 
 - **Frontend:** React · TypeScript · Vite · React Native / Expo · MapLibre GL · deck.gl
-- **Backend:** Python (FastAPI) · Node.js (Express, Fastify) · REST APIs
-- **Data:** MongoDB · data processing pipelines
-- **AI:** LLM APIs (OpenAI) · agent runtimes · tool calling · prompt design
+- **Backend:** Python (FastAPI) · Node.js (Express, Fastify) · REST APIs · SSE streaming
+- **Databases:** PostgreSQL (SQLAlchemy, asyncpg, Alembic migrations) · MongoDB · Redis · SQLite · pgvector
+- **AI:** LLM APIs · agent orchestration and delegation · adaptive model routing · RAG and vector stores · tool calling · MCP
+- **Architecture:** microservices and modular monoliths · event-driven integrations (webhooks, event streams) · background workers and queues · transactional email (Resend)
+- **Deployment:** Render (API-driven deploys) · VPS · Vercel · Docker
+
+## 🚧 Currently building
+
+**CONKAVO Agent** — an AI agent orchestration platform (private while in development).
+
+- Orchestrator that delegates work to specialised agents
+- Model routing that adapts to budget and task
+- RAG over internal knowledge with a vector store
+- MCP tool integration, webhooks and scheduled routines
+- FastAPI backend · React + TypeScript frontend · PostgreSQL, Redis
 
 ## 📌 Selected public work
 
-- [**logistics-analytics-platform**](https://github.com/JAVIEBRH/logistics-analytics-platform) — Python analytics for logistics data.
+- [**logistics-analytics-platform**](https://github.com/JAVIEBRH/logistics-analytics-platform) — full-stack operations dashboard: customer analytics (RFM), demand forecasting with XGBoost, route optimization and an AI assistant. FastAPI + React, 297 passing tests.
 
-> Most of my client work lives in private repositories, so this list is short for now. I'm preparing cleaned-up public versions of my own projects.
+> Most of my client work lives in private repositories, so this list is short for now. I'm preparing cleaned-up public versions of more projects.
 
 ## 📫 Let's talk
 
