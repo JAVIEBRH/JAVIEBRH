@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Javier%20Barahona&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agents%20%26%20Automation&descAlignY=60&descSize=16" alt="Javier Barahona — Full-Stack Developer · AI Agents & Automation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Javier%20Barahona&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agents%20and%20Automation&descAlignY=60&descSize=16" alt="Javier Barahona — Full-Stack Developer · AI Agents & Automation" />
 
 <a href="mailto:barahonajavier34@gmail.com"><img src="https://img.shields.io/badge/Email-barahonajavier34%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Location-Chile-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Chile" />
