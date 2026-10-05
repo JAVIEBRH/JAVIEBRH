@@ -49,7 +49,7 @@ I build web products end to end: interfaces, APIs, data pipelines and the AI lay
 
 ## 📌 Selected public work
 
-- [**logistics-analytics-platform**](https://github.com/JAVIEBRH/logistics-analytics-platform) — full-stack operations dashboard: customer analytics (RFM), demand forecasting with XGBoost, route optimization and an AI assistant. FastAPI + React, 297 passing tests.
+- [**logistics-analytics-platform**](https://github.com/JAVIEBRH/logistics-analytics-platform) — full-stack operations dashboard: customer analytics (RFM), demand forecasting with XGBoost, route optimization and an AI assistant. Syncs live data from a hosted API (Render) with caching and background tasks. FastAPI + React, 297 passing tests.
 
 > Most of my client work lives in private repositories, so this list is short for now. I'm preparing cleaned-up public versions of more projects.
 
